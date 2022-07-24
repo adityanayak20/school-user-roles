@@ -1,4 +1,5 @@
-Fill the following values before running it on server
+Fill the following values before running it on server inside
+/config/config.env
 
 PORT=
 
